@@ -8,7 +8,7 @@ Bu proje, Entity Framework Core kullanarak Code First yaklaşımı ile ilişkise
 
 1. Bu projeyi klonlayın:
     ```sh
-    git clone https://github.com/kullaniciadi/CodeFirstRelation.git
+    git clone https://github.com/ahmetemreari/CodeFirstRelation.git
     cd CodeFirstRelation
     ```
 
